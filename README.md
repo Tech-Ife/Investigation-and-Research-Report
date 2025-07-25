@@ -87,7 +87,7 @@ This report aims to draw lessons from real-world security failures and identify 
 ---
 
 ##  Project file
-
+[Investigation and Research Report pdf ](Investigation_and_Research_Report_LifeLabs_Data_Breach.pdf)
 
 
 ---
