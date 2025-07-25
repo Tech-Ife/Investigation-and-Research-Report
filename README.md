@@ -1,6 +1,6 @@
 # Investigation-and-Research-Report - LifeLabs Data Breach 
 
-##   Overview
+## Project  Overview
 
 In this project, I conducted a comprehensive investigation and research analysis of the LifeLabs data breach, one of Canada’s most significant cybersecurity incidents. The breach, which occurred in late 2019, compromised the personal and medical information of approximately 15 million individuals. The objective of this project was to identify the root causes of the attack, assess the damage, evaluate the technologies exploited, and recommend effective mitigation strategies and security controls.
 
