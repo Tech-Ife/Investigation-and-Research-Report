@@ -111,6 +111,6 @@ This report aims to draw lessons from real-world security failures and identify 
 
 ---
 
-## 🔖 Disclaimer
+##  Disclaimer
 
 > This is a **simulated academic project** intended for cybersecurity education and portfolio development. The content reflects real incident research and analysis for learning purposes.
