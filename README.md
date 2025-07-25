@@ -1,4 +1,4 @@
-# Investigation-and-Research-Report LifeLabs Data Breach 
+# Investigation-and-Research-Report - LifeLabs Data Breach 
 
 ##  Project Overview
 
@@ -6,7 +6,7 @@ In this project, I conducted a comprehensive investigation and research analysis
 
 ---
 
-## Project Summary
+## Summary
 
 - **Project Type:** Cybersecurity Research & Threat Analysis
 - **Subject:** LifeLabs 2019 Data Breach
@@ -75,14 +75,6 @@ This report aims to draw lessons from real-world security failures and identify 
 
 ---
 
-##  Outcomes
-
-- Identified technical and human-layer vulnerabilities.
-- Proposed an action-oriented mitigation roadmap.
-- Used standards like ISO 27001 and NIST SP 800-53 to structure responses.
-- Delivered real-world incident handling experience.
-
----
 
 ##  Skills Gained
 
@@ -108,6 +100,13 @@ This report aims to draw lessons from real-world security failures and identify 
 - [ISO/IEC 27001](https://www.iso.org/standard/54534.html)
 - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 - [LifeLabs Joint Investigation Report](https://www.ipc.on.ca/wp-content/uploads/2020/06/LifeLabs-Joint-Investigation-Report.pdf)
+
+---
+
+## 👤 Author
+**Ifeanyi Christian Edeh**  
+Cybersecurity Specialist  
+[LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
 
 ---
 
