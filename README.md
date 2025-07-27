@@ -103,7 +103,7 @@ This report aims to draw lessons from real-world security failures and identify 
 
 ---
 
-## 👤 Author
+##  Author
 **Ifeanyi Christian Edeh**  
 Cybersecurity Specialist  
 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
